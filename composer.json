@@ -1,5 +1,6 @@
 {
 	"name": "rdas/test-module",
 	"description": "Test Module for Magento from Composer",
+	"stability": "dev",
 	"require": {}
 }
