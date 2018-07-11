@@ -1,6 +1,6 @@
 <?php 
 
 	echo "TEST Composer Package\n";
-	echo "Ver 0.1"
+	echo "Ver 0.2"
 
  ?>
