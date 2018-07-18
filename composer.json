@@ -1,5 +1,22 @@
 {
 	"name": "rdas/test-module",
 	"description": "Test Module for Magento from Composer",
-	"require": {}
+	"keywords":"",
+	"time":"2018-07-18",
+	"license":"Apache-2.0",
+	"authors": [
+        {
+            "name": "Jakub Findura",
+            "email": "findurajakub@gmail.com",
+            "homepage": "http://www.google.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "findurajakub@gmail.com",
+        "irc": "irc://irc.freenode.org/composer"
+    },
+	"require": {},
+	"conflict": {},
+	"suggest": {}
 }
